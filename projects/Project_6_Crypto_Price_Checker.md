@@ -42,18 +42,8 @@ Sök efter en kryptovaluta (t.ex. Bitcoin), visa sedan **priset i SEK och USD** 
 **API / API:** [CoinGecko](https://www.coingecko.com/en/api)  
 Base: `https://api.coingecko.com/api/v3`
 
----
-
-
-
-## Illustrations / Illustrationer
-
-*Add your own layout sketches or AI mockups in* `illustrations/` *later (e.g.* `proj-6a.jpg`*).*
-*Lägg till egna skisser eller AI-mockups i* `illustrations/` *senare (t.ex.* `proj-6a.jpg`*).*
 
 ---
-
-
 
 # Part 1 — Build a simple version by hand / Del 1 — Bygg en enkel version för hand
 

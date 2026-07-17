@@ -44,8 +44,14 @@ Välj en svensk **stad**. På en sida, visa:
 
 ## Illustrations / Illustrationer
 
-City Assistant — layout idea ACity Assistant — layout idea BCity Assistant — layout idea C
+*Example layouts — inspiration only. Build a simple version first!*
+*Exempel-layouts — bara inspiration. Bygg en enkel version först!*
 
+![City Assistant — layout idea A](illustrations/proj-5a.jpg)
+
+![City Assistant — layout idea B](illustrations/proj-5b.jpg)
+
+![City Assistant — layout idea C](illustrations/proj-5c.jpg)
 ---
 
 

@@ -34,8 +34,14 @@ En enkel dashboard som hämtar svensk befolkningsdata från **Apiverket**, visar
 
 ## Illustrations / Illustrationer
 
-Statistics Explorer — layout idea AStatistics Explorer — layout idea BStatistics Explorer — layout idea C
+*Example layouts — inspiration only. Build a simple version first!*
+*Exempel-layouts — bara inspiration. Bygg en enkel version först!*
 
+![Statistics Explorer — layout idea A](illustrations/proj-3a.jpg)
+
+![Statistics Explorer — layout idea B](illustrations/proj-3b.jpg)
+
+![Statistics Explorer — layout idea C](illustrations/proj-3c.jpg)
 ---
 
 

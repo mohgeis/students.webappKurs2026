@@ -43,8 +43,11 @@ This API needs a **free Trafiklab key**. You will type it into an input on the p
 *Example layouts — inspiration only. Build a simple version first!*
 *Exempel-layouts — bara inspiration. Bygg en enkel version först!*
 
-Route Planner — layout idea ARoute Planner — layout idea BRoute Planner — layout idea C
+![Route Planner — layout idea A](illustrations/proj-2a.jpg)
 
+![Route Planner — layout idea B](illustrations/proj-2b.jpg)
+
+![Route Planner — layout idea C](illustrations/proj-2c.jpg)
 ---
 
 

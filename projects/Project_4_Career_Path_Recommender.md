@@ -39,8 +39,14 @@ Skriv in **3 färdigheter** (t.ex. python, excel, sql). Appen söker svenska job
 
 ## Illustrations / Illustrationer
 
-Career Path Recommender — layout idea ACareer Path Recommender — layout idea BCareer Path Recommender — layout idea C
+*Example layouts — inspiration only. Build a simple version first!*
+*Exempel-layouts — bara inspiration. Bygg en enkel version först!*
 
+![Career Path Recommender — layout idea A](illustrations/proj-4a.jpg)
+
+![Career Path Recommender — layout idea B](illustrations/proj-4b.jpg)
+
+![Career Path Recommender — layout idea C](illustrations/proj-4c.jpg)
 ---
 
 # Part 1 — Build a simple version by hand /

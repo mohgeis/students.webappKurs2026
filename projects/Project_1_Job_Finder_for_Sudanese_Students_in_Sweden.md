@@ -39,8 +39,11 @@ En enkel sida där en student skriver ett **sökord** (t.ex. `deltid`) och en **
 *Example layouts — inspiration only. Build a simple version first!*
 *Exempel-layouts — bara inspiration. Bygg en enkel version först!*
 
-Job Finder — layout idea AJob Finder — layout idea BJob Finder — layout idea C
+![Job Finder — layout idea A](illustrations/proj-1a.jpg)
 
+![Job Finder — layout idea B](illustrations/proj-1b.jpg)
+
+![Job Finder — layout idea C](illustrations/proj-1c.jpg)
 ---
 
 # Part 1 — Build a simple version by hand /  
