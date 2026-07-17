@@ -44,6 +44,17 @@ Base: `https://api.coingecko.com/api/v3`
 
 
 ---
+## Illustrations / Illustrationer
+
+*Example layouts — inspiration only. Build a simple version first!*
+*Exempel-layouts — bara inspiration. Bygg en enkel version först!*
+
+![Crypto prices — layout idea A](illustrations/proj-6a.jpg)
+
+![Crypto prices — layout idea B](illustrations/proj-6b.jpg)
+
+![Crypto prices — layout idea C](illustrations/proj-6c.jpg)
+---
 
 # Part 1 — Build a simple version by hand / Del 1 — Bygg en enkel version för hand
 
