@@ -54,6 +54,7 @@ Base: `https://api.coingecko.com/api/v3`
 ![Crypto prices — layout idea B](illustrations/proj-6b.jpg)
 
 ![Crypto prices — layout idea C](illustrations/proj-6c.jpg)
+
 ---
 
 # Part 1 — Build a simple version by hand / Del 1 — Bygg en enkel version för hand
