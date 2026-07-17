@@ -54,7 +54,45 @@ Välj en svensk **stad**. På en sida, visa:
 ![City Assistant — layout idea C](illustrations/proj-5c.jpg)
 ---
 
+# Part 0 — Get your API keys (for Sections B & C) /  
+Hämta dina API-nycklar (för sektion B & C)
 
+**English**  
+Section A (**Jobs**) needs **no key**. Get the keys below before you build Transport or City facts — or ask a teacher if signup is confusing.
+
+**Svenska**  
+Sektion A (**Jobb**) behöver **ingen nyckel**. Skaffa nycklarna nedan innan du bygger Transport eller Stadsfakta — eller be en lärare om hjälpen känns krånglig.
+
+### A) Trafiklab / ResRobot (Transport section)
+
+1. Go to [trafiklab.se](https://www.trafiklab.se/) and create a **free** account.
+2. Create a project and add the **ResRobot v2.1** API.
+3. Copy your **API key** (`accessId`).
+4. Later you will paste it into the **Trafiklab API key** input on your page — **never hard-code** it in `index.html` before you push to a **public** GitHub repo.
+
+**Svenska**
+
+1. Gå till [trafiklab.se](https://www.trafiklab.se/) och skapa ett **gratis** konto.
+2. Skapa ett projekt och lägg till API:et **ResRobot v2.1**.
+3. Kopiera din **API-nyckel** (`accessId`).
+4. Klistra senare in den i fältet **Trafiklab API key** på sidan — **hårdkoda den aldrig** i `index.html` innan du push:ar till ett **offentligt** GitHub-repo.
+
+### B) Apiverket (City facts section)
+
+1. For this course, start with the documented **test token** (no signup): `sk_test_demo`.
+2. Optional later: open [apiverket.se](https://apiverket.se/) and get a free/live key if you want real upstream data (`sk_live_…`).
+3. Paste the token only into the **Apiverket token** input — **do not commit** a private live key to GitHub.
+
+**Svenska**
+
+1. Börja i kursen med den dokumenterade **test-tokenen** (ingen registrering): `sk_test_demo`.
+2. Valfritt senare: öppna [apiverket.se](https://apiverket.se/) och skaffa en gratis/live-nyckel om du vill ha riktig upstream-data (`sk_live_…`).
+3. Klistra bara in tokenen i fältet **Apiverket token** — **commit:a inte** en privat live-nyckel till GitHub.
+
+> Do **not** paste real keys into WhatsApp or chat. Treat them like passwords.
+> *Klistra **inte** in riktiga nycklar i WhatsApp eller chatt. Behandla dem som lösenord.*
+
+---
 
 # Part 1 — Build by hand (section by section) /   
 Del 1 — Bygg för hand (sektion för sektion)

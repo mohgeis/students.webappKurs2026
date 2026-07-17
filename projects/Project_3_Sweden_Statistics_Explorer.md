@@ -44,7 +44,27 @@ En enkel dashboard som hämtar svensk befolkningsdata från **Apiverket**, visar
 ![Statistics Explorer — layout idea C](illustrations/proj-3c.jpg)
 ---
 
+# Part 0 — Get a Bearer token /  
+Hämta en Bearer-token
 
+**English**
+
+1. For this course, use Apiverket’s documented **test token** (no signup needed): `sk_test_demo`.
+2. You will paste it into a password input on your page — already filled in as a default in Part 1.
+3. Optional later: open [apiverket.se](https://apiverket.se/) and create/get a **live** key (`sk_live_…`) if you want real upstream data instead of sandbox examples.
+4. **Never hard-code** a private live key in `index.html` before you push to a **public** GitHub repo. Keep secrets in the input only.
+
+**Svenska**
+
+1. Använd i kursen Apiverkets dokumenterade **test-token** (ingen registrering behövs): `sk_test_demo`.
+2. Du klistrar in den i ett lösenordsfält på sidan — den är redan ifylld som standard i Del 1.
+3. Valfritt senare: öppna [apiverket.se](https://apiverket.se/) och skaffa en **live**-nyckel (`sk_live_…`) om du vill ha riktig upstream-data i stället för sandbox-exempel.
+4. **Hårdkoda aldrig** en privat live-nyckel i `index.html` innan du push:ar till ett **offentligt** GitHub-repo. Hemligheter hör bara hemma i inputfältet.
+
+> Teachers can help if anything is unclear. Do **not** paste live keys into WhatsApp.
+> *Lärare kan hjälpa om något är oklart. Klistra **inte** in live-nycklar i WhatsApp.*
+
+---
 
 # Part 1 — Build a simple version by hand /
 
