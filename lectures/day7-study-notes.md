@@ -152,13 +152,15 @@ Håll det kort och visa den **live**-app, inte bilder av den.
 
 **English**
 - **Responsible AI use:** the AI is a powerful partner, but the **"explain your code" rule** still holds — understanding beats copy-pasting. Always check what it produces.
-- **Keep learning:** add a second feature to your app, try a new API, rebuild something without the AI to test yourself, or help a friend build theirs.
+- **Keep learning:** add a second feature, try a new API, rebuild something without the AI, or help a friend.
 - **Find communities:** open-source projects, coding challenges, and CTF security games (from Day 5) are great next playgrounds.
+- **See Section 11** below for the full end-to-end map of web apps and concrete “what’s next” paths.
 
 **Svenska**
 - **Ansvarsfull AI-användning:** AI:n är en kraftfull partner, men **"förklara din kod"-regeln** gäller fortfarande — förståelse slår kopiera-klistra. Kontrollera alltid det den skapar.
-- **Fortsätt lära:** lägg till en andra funktion i din app, testa ett nytt API, bygg om något utan AI:n för att testa dig själv, eller hjälp en kompis bygga sin.
+- **Fortsätt lära:** lägg till en andra funktion, testa ett nytt API, bygg om något utan AI:n, eller hjälp en kompis.
 - **Hitta gemenskaper:** öppen-källkods-projekt, kodutmaningar och CTF-säkerhetsspel (från Dag 5) är utmärkta nästa lekplatser.
+- **Se avsnitt 11** nedan för hela slut-till-slut-kartan över webbappar och konkreta “vad härnäst”-vägar.
 
 ---
 
@@ -197,14 +199,140 @@ Håll det kort och visa den **live**-app, inte bilder av den.
 **English**
 Look how far you came in 7 days: from "what is AI?" to a **live web app of your own design that talks to a real API** — built with the AI as your partner, and fully understood by you. That's exactly what the course set out to do.
 
-Keep building, keep asking *why*, and keep owning your code.
-
 **Svenska**
 Se hur långt du kom på 7 dagar: från "vad är AI?" till en **live-webbapp av din egen design som pratar med ett riktigt API** — byggd med AI:n som din partner, och helt förstådd av dig. Det är precis vad kursen ville uppnå.
 
-Fortsätt bygga, fortsätt fråga *varför*, och fortsätt äga din kod.
+---
+
+## 11. The big picture: end-to-end web apps & what's next /
+Den stora bilden: webbappar från ax till limpa & vad som kommer härnäst
+
+**English**
+This last section is your map. It shows the **full path** of a simple web app — from idea to a public link — where **this course fits**, and **what to learn next**.
+
+**Svenska**
+Detta sista avsnitt är din karta. Den visar **hela vägen** för en enkel webbapp — från idé till offentlig länk — var **den här kursen passar in**, och **vad du kan lära dig härnäst**.
+
+### 11.1 The end-to-end path (simple web app) /
+Slut-till-slut-vägen (enkel webbapp)
+
+```text
+  1. IDEA          What problem? Who is it for?
+        ↓
+  2. PLAN          One core feature · which API · what the page shows
+        ↓
+  3. BUILD UI      HTML structure · CSS layout · forms & buttons
+        ↓
+  4. CONNECT DATA  fetch · JSON · show results · loading / errors / empty
+        ↓
+  5. IMPROVE       Read the code · fix bugs · polish UX · use AI carefully
+        ↓
+  6. VERSION       Git · GitHub · keep secrets out of the repo
+        ↓
+  7. SHIP          Deploy (GitHub Pages / Netlify / Vercel) · live URL
+        ↓
+  8. SHARE         Demo · README · listen to feedback · iterate
+```
+
+That loop is real software work in miniature. Pros repeat it for years — with more tools, more people, and more responsibility — but the **shape stays the same**.
+
+*Den loopen är riktigt mjukvaruarbete i miniatyr. Proffs upprepar den i åratal — med fler verktyg, fler människor och mer ansvar — men **formen är densamma**.*
+
+### 11.2 What you already practiced (mapped to the path) /
+Vad du redan övat (kopplat till vägen)
+
+| Step on the path / Steg på vägen | You learned… / Du lärde dig… | Course days / Kursdagar |
+|----------------------------------|------------------------------|-------------------------|
+| Idea & plan | Small scope, user story, pick an API | Day 6 |
+| Build UI | HTML / CSS / JS, pages that respond to clicks | Days 1–2, 6–7 |
+| Connect data | Public APIs, `fetch`, JSON, query params | Days 3–4 |
+| Improve | Prompting, reading AI code, UX states | Days 2, 4, 6–7 |
+| Version & secrets | Git, GitHub, never commit API keys | Day 5 |
+| Ship & share | Deploy, public URL, showcase demo | Day 7 |
+| Stay in charge | AI as partner — explain every line | All days |
+
+You have done a **real slice** of web development: a frontend that talks to the internet, lives on GitHub, and is online for others.
+
+*Du har gjort en **riktig bit** av webbutveckling: en frontend som pratar med internet, bor på GitHub, och finns online för andra.*
+
+### 11.3 What a fuller “pro” stack looks like (beyond this course) /
+Hur en större “proffs”-stack ser ut (bortom kursen)
+
+Your apps are **static frontends**: the browser runs HTML/CSS/JS and calls public APIs. That is a great start. Bigger products often add:
+
+| Layer / Lager | Examples / Exempel | Why it exists / Varför det finns |
+|---------------|--------------------|----------------------------------|
+| Frontend frameworks | React, Vue, Svelte | Bigger UIs, reusable components |
+| Backend / server | Node, Python, Java… | Your own logic, login, private keys |
+| Database | SQLite, PostgreSQL… | Save users, posts, high scores |
+| Auth | Login / accounts | Know *who* is using the app |
+| Testing & CI | Automated checks | Catch bugs before deploy |
+| Product & design | User research, accessibility | Build the *right* thing, for everyone |
+
+You do **not** need all of this tomorrow. Know that it exists so you can choose the next skill on purpose.
+
+*Du behöver **inte** allt detta imorgon. Vet att det finns, så du kan välja nästa färdighet med mening.*
+
+### 11.4 Concrete next steps (pick 1–2) /
+Konkreta nästa steg (välj 1–2)
+
+**Right after the course (this week) / Direkt efter kursen (denna vecka)**
+
+1. **Improve your shipped app** — one new feature, better empty/error states, or bilingual labels.
+2. **Write a better README** — screenshots, live link, how to run, which API, any keys needed.
+3. **Rebuild one small piece without AI** — e.g. the `fetch` + render loop — to prove you own it.
+4. **Share the link** with family/friends and note one piece of feedback to act on.
+
+**Next learning paths (choose a direction) / Nästa lärvägar (välj en riktning)**
+
+| If you liked… / Om du gillade… | Try next / Prova härnäst |
+|--------------------------------|--------------------------|
+| Making pages look good | CSS layouts, Flexbox/Grid deeply, accessibility basics |
+| APIs & live data | A second API in the same app; read official docs first |
+| “Real” app logic | A tiny backend (e.g. free serverless function) so keys stay secret |
+| Games / interaction | Small JS games, or more interactive UI without a framework first |
+| Working with others | Open-source “good first issue”, coding clubs, pair projects |
+| Security (Day 5 spark) | Password hygiene, CTF beginners, never trust client-side secrets |
+
+**Habits that matter more than tools / Vanor som betyder mer än verktyg**
+
+- Ship small, often — a working link beats a perfect unfinished idea.
+- Read errors and Network/Console tabs before asking for help.
+- Keep the golden rule: **if you can’t explain it, you don’t own it yet.**
+- Use AI to draft and teach — then rewrite or annotate until it’s yours.
+
+### 11.5 A 30-day challenge (optional) / En 30-dagars utmaning (valfritt)
+
+**English**
+- **Week 1:** Polish + document the app you built in this course.
+- **Week 2:** Add one new feature *or* a second public API.
+- **Week 3:** Build a *new* tiny app in a new repo (same rules: one page, one API).
+- **Week 4:** Deploy it, write a short post (WhatsApp / LinkedIn / school) with the live link and what you learned.
+
+**Svenska**
+- **Vecka 1:** Polera + dokumentera appen du byggde i den här kursen.
+- **Vecka 2:** Lägg till en ny funktion *eller* ett andra publikt API.
+- **Vecka 3:** Bygg en *ny* liten app i ett nytt repo (samma regler: en sida, ett API).
+- **Vecka 4:** Deploya den, skriv ett kort inlägg med live-länken och vad du lärde dig.
+
+### 11.6 Closing message / Avslutande meddelande
+
+**English**
+You now know the spine of web apps: **idea → UI → data → improve → Git → deploy → share**.  
+Everything you meet later — frameworks, servers, databases — plugs into that spine. Stay curious, stay kind with beginners behind you, and keep asking *why*.
+
+Keep building. Keep owning your code.
+
+**Svenska**
+Du känner nu ryggraden i webbappar: **idé → UI → data → förbättra → Git → deploy → dela**.  
+Allt du möter senare — ramverk, servrar, databaser — kopplas in på den ryggraden. Förbli nyfiken, var snäll mot nybörjare bakom dig, och fortsätt fråga *varför*.
+
+Fortsätt bygga. Fortsätt äga din kod.
 
 ---
 
 *Previously: Day 6 — Project Day: Design & Build Your Own App.*
 *Tidigare: Dag 6 — Projektdag: designa & bygg din egen app.*
+
+*End of course study notes — Day 7.*
+*Slut på kursens studieanteckningar — Dag 7.*
